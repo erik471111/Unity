@@ -1,6 +1,7 @@
 # Unity
 Basic comman for unity
 Player controller:
+---------------------------------------------
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -33,7 +34,7 @@ public class Playercontroller : MonoBehaviour
         
     }
     }
-    --------
+    ---------------------------------------------------------------------
     Camera follow:
     using System.Collections;
 using System.Collections.Generic;
@@ -56,7 +57,7 @@ public class Real : MonoBehaviour
     }
 
 }
---------
+-------------------------------------------------
 Coin Controller:
 using System.Collections;
 using System.Collections.Generic;
@@ -120,7 +121,7 @@ public class CoinController : MonoBehaviour
 }
 
 
-______
+______---------------------------------------------------
 Camera rotater:
 using System.Collections;
 using System.Collections.Generic;
